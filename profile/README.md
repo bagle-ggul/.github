@@ -5,20 +5,21 @@
 
 <br>
 
-❝ PROJECT : 그녀를 구해라! ❞
----
+# ❝ PROJECT : 그녀를 구해라! ❞
 
-## ⬇ ⬇ GAME PLAY ⬇ ⬇ (♫♪♬ 소리를 켜주세요!)
+
+## ⬇️⬇️⬇️ 🎮 GAME PLAY 🎲 ⬇️⬇️⬇️ ( 🎹 소리를 꼭 켜주세요! 🔊 ⭕️)
 ## [www.she-is-newyork-bagel.co.kr](https://www.she-is-newyork-bagel.co.kr)
 (비밀번호와 아이디는 암호화되어 안전하게 보관됩니다)
 <br>
 <br>
 <br>
 
-- 인게임 화면 
+## 인게임 화면 🎬 🎧 !! 
 <img width="1726" alt="image" src="https://github.com/bagle-ggul/.github/assets/83532821/7ea00d91-a0fc-41a2-8ebf-cd737e40e5c9">
 
-- 랭킹 화면 (나의 실력은 과연...몇등?!)
+## 🏆 랭킹 화면 !!🥇 🥈 🥉 🏅 (나의 실력은 과연...몇등?!)
+
 <img width="1300" alt="image" src="https://github.com/bagle-ggul/.github/assets/83532821/2426d28c-0199-45d4-8a5b-27709514c36e">
 
 ## 장르 : 미연시 게임 ( 시간 회귀물 )
