@@ -9,7 +9,7 @@
 
 
 ## ⬇️⬇️⬇️ 🎮 GAME PLAY 🎲 ⬇️⬇️⬇️ ( 🎹 소리를 꼭 켜주세요! 🔊 ⭕️)
-## http://suh-project.synology.me:3005/
+## http://suh-project.synology.me:3006/
 
 (비밀번호와 아이디는 암호화되어 안전하게 보관됩니다)
 <br>
