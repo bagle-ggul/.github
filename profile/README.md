@@ -17,7 +17,10 @@
 <br>
 
 ## 인게임 화면 🎬 🎧 !! 
-<img width="1726" alt="image" src="https://github.com/bagle-ggul/.github/assets/83532821/7ea00d91-a0fc-41a2-8ebf-cd737e40e5c9">
+
+<img width="1503" height="934" alt="image" src="https://github.com/user-attachments/assets/4b98d703-5d03-4083-9d5b-e5534bd25ac7" />
+
+<img width="1490" height="915" alt="image" src="https://github.com/user-attachments/assets/651f30a6-5ae4-4c3c-a638-211dcf9dfc9f" />
 
 ## 🏆 랭킹 화면 !!🥇 🥈 🥉 🏅 (나의 실력은 과연...몇등?!)
 
