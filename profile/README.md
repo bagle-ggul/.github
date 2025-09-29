@@ -18,13 +18,24 @@
 
 ## 인게임 화면 🎬 🎧 !! 
 
-<img width="1503" height="934" alt="image" src="https://github.com/user-attachments/assets/4b98d703-5d03-4083-9d5b-e5534bd25ac7" />
+<img width="1374" height="951" alt="image" src="https://github.com/user-attachments/assets/a08df4d5-ad79-4910-827c-1fbe9a19c955" />
 
 <img width="1490" height="915" alt="image" src="https://github.com/user-attachments/assets/651f30a6-5ae4-4c3c-a638-211dcf9dfc9f" />
 
+
+## 모바일 완벽 지원
+
+<img width="322" height="699" alt="image" src="https://github.com/user-attachments/assets/861add32-65f2-4a8e-86fd-5e1fa8180066" />
+
+<img width="323" height="698" alt="image" src="https://github.com/user-attachments/assets/f8aad765-7925-47d8-8eba-19321fbb987a" />
+
+<img width="317" height="695" alt="image" src="https://github.com/user-attachments/assets/4d8ff477-d0f8-4c40-ac17-d9f530ba6d8c" />
+
+
 ## 🏆 랭킹 화면 !!🥇 🥈 🥉 🏅 (나의 실력은 과연...몇등?!)
 
-<img width="1300" alt="image" src="https://github.com/bagle-ggul/.github/assets/83532821/2426d28c-0199-45d4-8a5b-27709514c36e">
+<img width="1373" height="949" alt="image" src="https://github.com/user-attachments/assets/db513a55-fd2a-481b-bdab-42da4ac5cfdc" />
+
 
 ## 장르 : 미연시 게임 ( 시간 회귀물 )
   
